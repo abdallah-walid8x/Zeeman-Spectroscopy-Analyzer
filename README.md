@@ -27,17 +27,17 @@ This software simplifies the analysis of the Zeeman effect by automating the mea
 # Install dependencies:
 ```` ```bash ````
 pip install -r requirements.txt
-```` ```bash ````
+
 
 # Usage
 # 1. Activate the virtual environment:
 ```` ```bash ````
 source .venv/bin/activate
-```` ```bash ````
+
 # 2. Run the application:
 ```` ```bash ````
 python main.py
-```` ```bash ````
+```` ``` ````
 # 3. Using the application:
 
 * Load Images: Click 'Open' to load spectral line images
