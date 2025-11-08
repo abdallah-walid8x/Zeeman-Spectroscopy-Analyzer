@@ -25,15 +25,20 @@ This software simplifies the analysis of the Zeeman effect by automating the mea
 * Installation
 * Clone this repository
 # Install dependencies:
+```` ```bash ````
 pip install -r requirements.txt
+```` ```````
+
 # Usage
-# # Activate the virtual environment:
-
+# 1. Activate the virtual environment:
+```` ```bash ````
 source .venv/bin/activate
-# # Run the application:
-
+```` ```````
+# 2. Run the application:
+```` ```bash ````
 python main.py
-# # Using the application:
+```` ```````
+# 3. Using the application:
 
 * Load Images: Click 'Open' to load spectral line images
  8Calibrate: Set up magnetic field calibration in the calibration window
